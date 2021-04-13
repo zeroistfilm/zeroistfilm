@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **zeroistfilm@naver.com**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroistfilm)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/0___dong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="0___dong" height="30" width="40" /></a>
