@@ -8,7 +8,7 @@
 
   </div>
   
-- 🌱 I’m currently learning **SW Academy Jungle KAIST**
+- 🌱 I’m currently learning at **SW Academy Jungle KAIST**
 
 - 📝 I regularly write articles on [https://www.notion.so/Computer-Abstraction-ea59c616ceb34e0bbd8c5c6f5b1b5b22](https://www.notion.so/Computer-Abstraction-ea59c616ceb34e0bbd8c5c6f5b1b5b22)
 
