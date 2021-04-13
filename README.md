@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Youngdong</h1>
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
+  
 - 🌱 I’m currently learning **SW Academy Jungle KAIST**
 
 - 📝 I regularly write articles on [https://www.notion.so/Computer-Abstraction-ea59c616ceb34e0bbd8c5c6f5b1b5b22](https://www.notion.so/Computer-Abstraction-ea59c616ceb34e0bbd8c5c6f5b1b5b22)
